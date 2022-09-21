@@ -1,7 +1,7 @@
 [
     {
       "name": "node",
-      "image": "${account_id}.dkr.ecr.${region}.amazonaws.com/node:latest",
+      "image": "573776003072.dkr.ecr.us-west-2.amazonaws.com/node:latest",
       "essential": true,
       "portMappings": [
         {
